@@ -9,6 +9,6 @@ public class BasicIO {
         int a = input.nextInt();
         System.out.println("Enter a string b: ");
         String b = input.next();
-        System.out.println("a: "+a+", b: "+b);
+        System.out.println("a: "+a+", b: "+b); 
     }
 }
