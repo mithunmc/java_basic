@@ -1,5 +1,5 @@
 package J08;
 
-public class Lambda  {
+public class Lambda{
 
 }
