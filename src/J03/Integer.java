@@ -6,7 +6,7 @@ public class Integer {
         System.out.println("x: "+x);
         int y = 0b110000;
         System.out.println("y: "+y);
-        String s = "23";
+        java.lang.String s = "23";
         int z = java.lang.Integer.parseInt(s);
         System.out.println("z: "+z);
     }
