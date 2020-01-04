@@ -36,5 +36,5 @@ public class GenericLinkedList<T> {
         System.out.println("String list "+slist);
     }
 
-    
+
 }
